@@ -52,3 +52,7 @@
 - name: openclaw
   loader: metta
   location: "{REPO}/plugins/openclaw"
+
+- name: render_diagram
+  loader: metta
+  location: "{REPO}/plugins/render_diagram"

@@ -106,6 +106,8 @@ RUN apt-get update \
       git \
       nginx-light \
       gettext-base \
+      graphviz \
+      fonts-dejavu-core \
       poppler-utils \
       util-linux \
       curl \
