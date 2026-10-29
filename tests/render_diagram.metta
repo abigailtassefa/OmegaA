@@ -2,6 +2,7 @@
 !(import! &self ../src/helper.py)
 !(import! &self ../src/logger.py)
 !(import! &self ../src/plugin.py)
+!(import! &self ../src/config.py)
 !(import! &self ./src/utils)
 !(import! &self ./src/log)
 !(import! &self ./src/skills)

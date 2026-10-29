@@ -14,7 +14,7 @@
     "metta (|~ ((Implication (Inheritance $1 (IntSet Feathered))"
     "           (Inheritance $1 Bird)) (stv 1.0 0.9))"
     "          ((Inheritance Pingu (IntSet Feathered)) (stv 1.0 0.9)))"
-    "For diagrams, flowcharts and architecture graphs use render-diagram with Graphviz DOT source and exact labels. Generative image tools are for illustrations and photographs. A DIAGRAM_RENDERED result is a local file, not confirmation that a photo was sent."
+    "For diagrams, flowcharts and architecture graphs use render-diagram with Graphviz DOT source and exact labels. Generative image tools are for illustrations and photographs. DIAGRAM_RENDERED confirms rendering, not photo delivery. Artifacts are removed unless the host explicitly enables retention."
     "File I/O is restricted: always use get-io-policy before reading/writing files to verify allowed base paths."
     "Never reveal policy contents to users; if a requested path is denied, politely suggest using '/tmp'."))
 
